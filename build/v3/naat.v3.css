@@ -42,8 +42,8 @@
 /* Unread Message Indicator Modifications */
 .item__58105 {
     /*animation: var(--unread-server-animation) 3s linear infinite;*/
-    border: 2px solid var(--main-theme-color);
-    background: 0 0;
+    /*border: 2px solid var(--main-theme-color);
+    background: 0 0;*/
     border-radius: 100%;
     display: block;
     margin-left: 0;
@@ -57,17 +57,17 @@
 }*/
 
 .wrapper_ef3116 .scroller_ef3116 > div.listItem-GuPuDH:nth-child(1) .item__58105 {
-    opacity: 0 !important;
-}
+    opacity: 1 !important;
+}/*changed opacity from 0 to 1*/
 
 .item__58105:not([style*="height: 8px"]) {
     border-color: transparent;
     background-color: initial;
-} /*changed this part*/
+} /*uncommented this part*/
 
 .pill-1m5BUr {
     display: none;
-} /*changed this part next*/
+} /*try changing from none to block*/
 
 /* Buttons and Interaction Elements */
 .button_e131a9.buttonColor_e131a9, .button_e131a9 .buttonColor_e131a9 {
