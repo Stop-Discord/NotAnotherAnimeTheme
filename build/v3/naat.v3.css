@@ -66,8 +66,8 @@
 } /*changed this part*/
 
 .pill-1m5BUr {
-    display: block;
-}
+    display: none;
+} /*changed this part next*/
 
 /* Buttons and Interaction Elements */
 .button_e131a9.buttonColor_e131a9, .button_e131a9 .buttonColor_e131a9 {
