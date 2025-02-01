@@ -60,10 +60,10 @@
     opacity: 0 !important;
 }
 
-/*.item__58105:not([style*="height: 8px"]) {
+.item__58105:not([style*="height: 8px"]) {
     border-color: transparent;
     background-color: initial;
-}*/
+} /*changed this part*/
 
 .pill-1m5BUr {
     display: block;
