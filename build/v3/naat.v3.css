@@ -57,7 +57,7 @@
 }
 
 .wrapper_ef3116 .scroller_ef3116 > div.listItem-GuPuDH:nth-child(1) .item__58105 {
-    opacity: 1 !important;
+    opacity: 0 !important;
 }/*changed opacity from 0 to 1*/
 
 .item__58105:not([style*="height: 8px"]) {
