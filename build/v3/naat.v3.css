@@ -41,11 +41,11 @@
 
 /* Unread Message Indicator Modifications */
 .item__58105 {
-    /*animation: var(--unread-server-animation) 3s linear infinite;*/
-    /*border: 2px solid var(--main-theme-color);
-    background: 0 0;*/
+    /*animation: var(--unread-server-animation) 3s linear infinite;
+    border: 2px solid var(--main-theme-color);
+    background: 0 0;
     border-radius: 100%;
-    display: block;
+    display: block;*/
     margin-left: 0;
     margin-top: 0;
     position: absolute;
