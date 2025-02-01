@@ -40,7 +40,7 @@
 }
 
 /* Unread Message Indicator Modifications */
-.item__58105 {
+/*.item__58105 {
     animation: var(--unread-server-animation) 3s linear infinite;
     border: 2px solid var(--main-theme-color);
     background: 0 0;
@@ -54,19 +54,19 @@
     width: 48px;
     height: 48px !important;
     transform: none !important;
-}
+}*/
 
 .wrapper_ef3116 .scroller_ef3116 > div.listItem-GuPuDH:nth-child(1) .item__58105 {
     opacity: 0 !important;
 }
 
-.item__58105:not([style*="height: 8px"]) {
+/*.item__58105:not([style*="height: 8px"]) {
     border-color: transparent;
     background-color: initial;
-}
+}*/
 
 .pill-1m5BUr {
-    display: none;
+    display: block;
 }
 
 /* Buttons and Interaction Elements */
